@@ -1,0 +1,8 @@
+img.slide{
+    height: 700px;
+    object-fit: 100%;
+}
+.text-white {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.7); 
+}
